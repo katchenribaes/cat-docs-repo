@@ -259,30 +259,30 @@
   },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/online-shop/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/online-shop/docs",
+          "path": "/docs",
           "mainDocId": "about/overview",
           "docs": [
             {
               "id": "about/overview",
-              "path": "/online-shop/docs/about/overview",
+              "path": "/docs/about/overview",
               "sidebar": "about"
             },
             {
               "id": "intro",
-              "path": "/online-shop/docs/intro"
+              "path": "/docs/intro"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "about": {
               "link": {
-                "path": "/online-shop/docs/about/overview",
+                "path": "/docs/about/overview",
                 "label": "about/overview"
               }
             }

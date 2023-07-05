@@ -1,5 +1,5 @@
 {
-  "/online-shop/api/swagger-b1b": {
+  "/api/swagger-296": {
     "__comp": "f0ad3fbb",
     "__context": {
       "plugin": "6cd4f39b"
@@ -7,7 +7,7 @@
     "specProps": "3d01db8f",
     "layoutProps": "6c70cd47"
   },
-  "/online-shop/blog-f77": {
+  "/blog-955": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "97e1f5cf"
@@ -27,16 +27,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b63e6acb"
+    "metadata": "b2b675dd"
   },
-  "/online-shop/blog/archive-72a": {
+  "/blog/archive-482": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "97e1f5cf"
     },
-    "archive": "4d2ab81f"
+    "archive": "b2f554cd"
   },
-  "/online-shop/blog/first-blog-post-4a0": {
+  "/blog/first-blog-post-617": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "97e1f5cf"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/online-shop/blog/long-blog-post-6f8": {
+  "/blog/long-blog-post-2b0": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "97e1f5cf"
@@ -52,7 +52,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/online-shop/blog/mdx-blog-post-3d0": {
+  "/blog/mdx-blog-post-934": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "97e1f5cf"
@@ -60,15 +60,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/online-shop/blog/tags-cf4": {
+  "/blog/tags-a5f": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "97e1f5cf"
     },
     "sidebar": "814f3328",
-    "tags": "4993de18"
+    "tags": "a7023ddc"
   },
-  "/online-shop/blog/tags/docusaurus-9dd": {
+  "/blog/tags/docusaurus-670": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "97e1f5cf"
@@ -88,10 +88,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "ce61c33c",
-    "listMetadata": "39f9960e"
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
   },
-  "/online-shop/blog/tags/facebook-ebc": {
+  "/blog/tags/facebook-20b": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "97e1f5cf"
@@ -102,10 +102,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "0aa1026c",
-    "listMetadata": "78dbcbb3"
+    "tag": "031793e1",
+    "listMetadata": "096bfee4"
   },
-  "/online-shop/blog/tags/hello-8b7": {
+  "/blog/tags/hello-034": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "97e1f5cf"
@@ -119,10 +119,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "a70585dd",
-    "listMetadata": "2f9621aa"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
-  "/online-shop/blog/tags/hola-33b": {
+  "/blog/tags/hola-241": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "97e1f5cf"
@@ -133,10 +133,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "b3bb5a52",
-    "listMetadata": "5e371494"
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
   },
-  "/online-shop/blog/welcome-50c": {
+  "/blog/welcome-f25": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "97e1f5cf"
@@ -144,29 +144,29 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/online-shop/markdown-page-26c": {
+  "/markdown-page-8b2": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "27ec19d4"
     },
     "content": "393be207"
   },
-  "/online-shop/docs-a04": {
+  "/docs-8c0": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "1cc05801"
     },
     "versionMetadata": "935f2afb"
   },
-  "/online-shop/docs/about/overview-870": {
+  "/docs/about/overview-505": {
     "__comp": "17896441",
     "content": "24d81af9"
   },
-  "/online-shop/docs/intro-883": {
+  "/docs/intro-e84": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/online-shop/-b84": {
+  "/-edc": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "27ec19d4"
