@@ -10,7 +10,7 @@ export default {
   "url": "https://katchenribaes.github.io",
   "baseUrl": "/",
   "projectName": "katchenribaes.github.io",
-  "organizationName": "onlineshop",
+  "organizationName": "katchenribaes",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": false,
