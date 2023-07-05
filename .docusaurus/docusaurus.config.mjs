@@ -14,6 +14,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": false,
+  "deploymentBranch": "main",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
