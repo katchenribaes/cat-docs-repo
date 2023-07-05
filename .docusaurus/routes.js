@@ -3,90 +3,90 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/api/swagger',
-    component: ComponentCreator('/api/swagger', '296'),
+    path: '/online-shop/api/swagger',
+    component: ComponentCreator('/online-shop/api/swagger', 'b1b'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '955'),
+    path: '/online-shop/blog',
+    component: ComponentCreator('/online-shop/blog', 'f77'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '482'),
+    path: '/online-shop/blog/archive',
+    component: ComponentCreator('/online-shop/blog/archive', '72a'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '617'),
+    path: '/online-shop/blog/first-blog-post',
+    component: ComponentCreator('/online-shop/blog/first-blog-post', '4a0'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '2b0'),
+    path: '/online-shop/blog/long-blog-post',
+    component: ComponentCreator('/online-shop/blog/long-blog-post', '6f8'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '934'),
+    path: '/online-shop/blog/mdx-blog-post',
+    component: ComponentCreator('/online-shop/blog/mdx-blog-post', '3d0'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'a5f'),
+    path: '/online-shop/blog/tags',
+    component: ComponentCreator('/online-shop/blog/tags', 'cf4'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '670'),
+    path: '/online-shop/blog/tags/docusaurus',
+    component: ComponentCreator('/online-shop/blog/tags/docusaurus', '9dd'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '20b'),
+    path: '/online-shop/blog/tags/facebook',
+    component: ComponentCreator('/online-shop/blog/tags/facebook', 'ebc'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '034'),
+    path: '/online-shop/blog/tags/hello',
+    component: ComponentCreator('/online-shop/blog/tags/hello', '8b7'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '241'),
+    path: '/online-shop/blog/tags/hola',
+    component: ComponentCreator('/online-shop/blog/tags/hola', '33b'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'f25'),
+    path: '/online-shop/blog/welcome',
+    component: ComponentCreator('/online-shop/blog/welcome', '50c'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '8b2'),
+    path: '/online-shop/markdown-page',
+    component: ComponentCreator('/online-shop/markdown-page', '26c'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '8c0'),
+    path: '/online-shop/docs',
+    component: ComponentCreator('/online-shop/docs', 'a04'),
     routes: [
       {
-        path: '/docs/about/overview',
-        component: ComponentCreator('/docs/about/overview', '505'),
+        path: '/online-shop/docs/about/overview',
+        component: ComponentCreator('/online-shop/docs/about/overview', '870'),
         exact: true,
         sidebar: "about"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'e84'),
+        path: '/online-shop/docs/intro',
+        component: ComponentCreator('/online-shop/docs/intro', '883'),
         exact: true
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'edc'),
+    path: '/online-shop/',
+    component: ComponentCreator('/online-shop/', 'b84'),
     exact: true
   },
   {

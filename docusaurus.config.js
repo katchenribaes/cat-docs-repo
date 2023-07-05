@@ -11,12 +11,12 @@ const config = {
   favicon: 'img/leaf.png',
 
   // Set the production url of your site here
-  url: 'https://katchenribaes.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/online-shop/',
   organizationName: 'katchenribaes',
-  projectName: 'katchenribaes.github.io',
+  projectName: 'online-shop',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // Even if you don't use internalization, you can use this field to set useful
