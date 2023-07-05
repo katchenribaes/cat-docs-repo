@@ -11,13 +11,13 @@ const config = {
   favicon: 'img/leaf.png',
 
   // Set the production url of your site here
-  url: 'https://katchenribaes.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/cat-docs-repo/',
   organizationName: 'katchenribaes',
-  projectName: '/',
-  deploymentBranch: "main",
+  projectName: 'cat-docs-repo',
+  deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // Even if you don't use internalization, you can use this field to set useful

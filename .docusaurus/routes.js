@@ -3,90 +3,90 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/api/swagger',
-    component: ComponentCreator('/api/swagger', '296'),
+    path: '/cat-docs-repo/api/swagger',
+    component: ComponentCreator('/cat-docs-repo/api/swagger', 'dd8'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '955'),
+    path: '/cat-docs-repo/blog',
+    component: ComponentCreator('/cat-docs-repo/blog', 'aa1'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '482'),
+    path: '/cat-docs-repo/blog/archive',
+    component: ComponentCreator('/cat-docs-repo/blog/archive', '8c6'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '617'),
+    path: '/cat-docs-repo/blog/first-blog-post',
+    component: ComponentCreator('/cat-docs-repo/blog/first-blog-post', '197'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '2b0'),
+    path: '/cat-docs-repo/blog/long-blog-post',
+    component: ComponentCreator('/cat-docs-repo/blog/long-blog-post', '570'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '934'),
+    path: '/cat-docs-repo/blog/mdx-blog-post',
+    component: ComponentCreator('/cat-docs-repo/blog/mdx-blog-post', 'b0a'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'a5f'),
+    path: '/cat-docs-repo/blog/tags',
+    component: ComponentCreator('/cat-docs-repo/blog/tags', 'd99'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '670'),
+    path: '/cat-docs-repo/blog/tags/docusaurus',
+    component: ComponentCreator('/cat-docs-repo/blog/tags/docusaurus', 'fb3'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '20b'),
+    path: '/cat-docs-repo/blog/tags/facebook',
+    component: ComponentCreator('/cat-docs-repo/blog/tags/facebook', '975'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '034'),
+    path: '/cat-docs-repo/blog/tags/hello',
+    component: ComponentCreator('/cat-docs-repo/blog/tags/hello', 'd6a'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '241'),
+    path: '/cat-docs-repo/blog/tags/hola',
+    component: ComponentCreator('/cat-docs-repo/blog/tags/hola', 'bce'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'f25'),
+    path: '/cat-docs-repo/blog/welcome',
+    component: ComponentCreator('/cat-docs-repo/blog/welcome', '111'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '8b2'),
+    path: '/cat-docs-repo/markdown-page',
+    component: ComponentCreator('/cat-docs-repo/markdown-page', 'e51'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '8c0'),
+    path: '/cat-docs-repo/docs',
+    component: ComponentCreator('/cat-docs-repo/docs', '7b4'),
     routes: [
       {
-        path: '/docs/about/overview',
-        component: ComponentCreator('/docs/about/overview', '505'),
+        path: '/cat-docs-repo/docs/about/overview',
+        component: ComponentCreator('/cat-docs-repo/docs/about/overview', '0d3'),
         exact: true,
         sidebar: "about"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'e84'),
+        path: '/cat-docs-repo/docs/intro',
+        component: ComponentCreator('/cat-docs-repo/docs/intro', 'f16'),
         exact: true
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'edc'),
+    path: '/cat-docs-repo/',
+    component: ComponentCreator('/cat-docs-repo/', '6b0'),
     exact: true
   },
   {
