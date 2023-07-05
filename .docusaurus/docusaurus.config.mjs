@@ -11,10 +11,10 @@ export default {
   "baseUrl": "/online-shop/",
   "organizationName": "katchenribaes",
   "projectName": "online-shop",
+  "deploymentBranch": "main",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": false,
-  "deploymentBranch": "main",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
