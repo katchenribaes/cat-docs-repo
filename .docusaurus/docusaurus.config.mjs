@@ -9,7 +9,7 @@ export default {
   "favicon": "img/leaf.png",
   "url": "https://katchenribaes.github.io",
   "baseUrl": "/",
-  "projectName": "katchenribaes.github.io",
+  "projectName": "katchenribaes",
   "organizationName": "katchenribaes",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
