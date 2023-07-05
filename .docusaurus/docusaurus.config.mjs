@@ -8,7 +8,7 @@ export default {
   "tagline": "Online Shop",
   "favicon": "img/leaf.png",
   "url": "https://katchenribaes.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/onlineshop/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
