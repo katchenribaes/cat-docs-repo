@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/cat-docs-repo/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "tags": [],
   "version": "current",
