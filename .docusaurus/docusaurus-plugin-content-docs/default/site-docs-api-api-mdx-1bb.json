@@ -1,0 +1,19 @@
+{
+  "unversionedId": "api/api",
+  "id": "api/api",
+  "title": "API Docs",
+  "description": "",
+  "source": "@site/docs/api/api.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/",
+  "permalink": "/docs/api/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api/api.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "api",
+    "sidebar_label": "API Docs",
+    "title": "API Docs"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "about/overview",
+  "id": "about/overview",
+  "title": "API Reference",
+  "description": "This documentation provides detailed information about the endpoints, request/response formats, and authentication mechanisms for interacting with the API.",
+  "source": "@site/docs/about/overview.mdx",
+  "sourceDirName": "about",
+  "slug": "/about/overview",
+  "permalink": "/docs/about/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "sidebar_label": "API Reference",
+    "title": "API Reference"
+  },
+  "sidebar": "about"
+}
