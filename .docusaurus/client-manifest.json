@@ -271,9 +271,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.2c893118.js",
-          "hash": "ce4c88c00dc78c2f",
-          "publicPath": "/online-shop/assets/js/main.2c893118.js"
+          "file": "assets/js/main.0de562cc.js",
+          "hash": "4718321b5b346d2e",
+          "publicPath": "/online-shop/assets/js/main.0de562cc.js"
         }
       ]
     },
@@ -317,7 +317,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.10748e17.js",
-          "hash": "6cd9a4f293db5fdf",
+          "hash": "f9099e675290b384",
           "publicPath": "/online-shop/assets/js/runtime~main.10748e17.js"
         }
       ]

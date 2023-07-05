@@ -7,7 +7,7 @@ export default {
   "title": "Online Shop",
   "tagline": "Online Shop",
   "favicon": "img/leaf.png",
-  "url": "https://github.com",
+  "url": "https://katchenribaes.github.io",
   "baseUrl": "/online-shop/",
   "organizationName": "katchenribaes",
   "projectName": "online-shop",
