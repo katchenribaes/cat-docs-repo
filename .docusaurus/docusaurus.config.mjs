@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "katchenribaes",
   "projectName": "katchenribaes.github.io",
-  "deploymentBranch": "gh-pages",
+  "deploymentBranch": "main",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": false,

@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'katchenribaes',
   projectName: 'katchenribaes.github.io',
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "main",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // Even if you don't use internalization, you can use this field to set useful
